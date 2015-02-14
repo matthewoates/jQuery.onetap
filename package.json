@@ -1,0 +1,28 @@
+{
+  "name": "jquery-onetap",
+  "version": "0.1.1",
+  "description": "JQuery plugin that provides a common interface to mouse and touch interactions",
+  "main": "jquery.tap.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthewoates/jQuery.onetap.git"
+  },
+  "keywords": [
+    "jquery",
+    "tap",
+    "touch",
+    "mouse"
+  ],
+  "author": "Matt Oates <matthew.oates08@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewoates/jQuery.onetap/issues"
+  },
+  "homepage": "https://github.com/matthewoates/jQuery.onetap"
+}

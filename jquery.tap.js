@@ -75,10 +75,6 @@
 
         if (tapEvent.isTouch) {
             tapped();
-
-            if (event.type === 'touchmove') {
-                event.preventDefault();
-            }
         }
 
         if ((event.type !== 'mousemove' && (listenToClicks || tapEvent.isTouch)) ||
